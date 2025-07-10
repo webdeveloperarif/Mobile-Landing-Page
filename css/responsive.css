@@ -1,0 +1,789 @@
+@media (max-width: 1699px) {
+  .try_slider_banner_cont h2 {
+    font-size: 80px;
+  }
+}
+
+@media (max-width: 1499px) {
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_img
+    img {
+    width: 410px;
+  }
+
+  .try_slider_banner_cont p {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .try_slider_banner_cont h2 {
+    font-size: 70px;
+  }
+
+  .try_mob_slider_img_Wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .try_mob_slider_img_Wrapper img {
+    width: 280px;
+  }
+
+  .try_mob_slider_img_Wrapper .shap_img {
+    left: 124px;
+  }
+
+  .earphone_main_wrapper
+    .card_info_box
+    .card_box
+    .mob_box_wrapper
+    .mob_img_cont
+    h2 {
+    font-size: 22px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box {
+    position: absolute;
+    top: 290px;
+    left: 495px;
+  }
+
+  .our_best_slider_inner_wrapper .owl-dots {
+    position: absolute;
+    right: 240px;
+    bottom: 100px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h2 {
+    font-size: 150px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_img_box
+    img {
+    width: 400px;
+  }
+
+  .watch_section_wrapper .watch_info_box .watch_inner_box .img_box img {
+    width: 350px;
+  }
+}
+
+@media (max-width: 1399px) {
+  .try_mob_slider_img_Wrapper .shap_img {
+    left: 114px;
+  }
+
+  .try_banner_slider_inner_wrapper .carousel-indicators {
+    bottom: 150px;
+  }
+
+  .watch_section_wrapper .watch_info_box .watch_inner_box .content_box h2 {
+    font-size: 70px;
+  }
+
+  .watch_section_wrapper .watch_info_box .watch_inner_box .img_box img {
+    width: 290px;
+  }
+
+  .watch_section_wrapper .pattern svg {
+    width: 200px;
+    height: 100px;
+  }
+}
+
+@media (max-width: 1299px) {
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h2 {
+    font-size: 130px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h3 {
+    font-family: Lato;
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar-expand-lg .navbar-nav {
+    gap: 20px;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-item .nav-link {
+    font-size: 14px;
+  }
+
+  .try_recent_mobail_main_wrapper .card_info_box {
+    flex-wrap: wrap;
+  }
+
+  .try_recent_mobail_main_wrapper .card_info_box .card_box {
+    width: 31%;
+  }
+
+  .try_slider_img_header_Wrapper {
+    top: 160px;
+  }
+
+  .slider-area .carousel-inner .item .carousel-captions .content {
+    top: 180px;
+  }
+
+  .try_slider_img_Wrapper {
+    top: 150px;
+  }
+
+  .try_slider_mac_img_Wrapper {
+    top: 225px;
+  }
+
+  .try_cam_slider_img_Wrapper {
+    top: 190px;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box h1 {
+    font-size: 170px;
+    line-height: 160px;
+  }
+
+  .try_mob_slider_img_Wrapper .shap_img {
+    left: 130px;
+  }
+
+  .try_slider_banner_cont h2 {
+    font-size: 50px;
+  }
+
+  .try_slider_banner_cont h3 {
+    font-size: 30px;
+  }
+
+  .try_slider_banner_cont p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .try_banner_slider_inner_wrapper .carousel-indicators {
+    bottom: 170px;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_content_box
+    h2 {
+    font-size: 90px;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_content_box
+    h3 {
+    font-size: 35px;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_content_box
+    p {
+    font-size: 35px;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_img
+    img {
+    width: 310px;
+  }
+
+  .earphone_main_wrapper .card_info_box {
+    flex-wrap: wrap;
+  }
+
+  .earphone_main_wrapper .card_info_box .card_box {
+    width: 31%;
+  }
+
+  .our_best_slider_inner_wrapper .owl-dots {
+    right: 150px;
+    bottom: 150px;
+  }
+
+  .lap_comp_sec_wrapper
+    .lap_comp_main_box
+    .lap_comp_info_box
+    .lap_comp_inner_box
+    .lap_comp_content_box
+    h3 {
+    font-size: 20px;
+  }
+
+  .lap_comp_sec_wrapper
+    .lap_comp_main_box
+    .lap_comp_info_box
+    .lap_comp_inner_box
+    .lap_comp_content_box
+    p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .super_sale_wrapper .super_sale_info_box .discount_box {
+    position: absolute;
+    top: 290px;
+    left: 450px;
+  }
+}
+
+@media (max-width: 1070px) {
+  .super_sale_wrapper .super_sale_info_box .discount_box {
+    position: absolute;
+    top: 290px;
+    left: 392px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .try_it_banner_wrapper .main-banner .banner_content_box h1 {
+    font-size: 130px;
+    line-height: 120px;
+  }
+
+  .right_baloon img {
+    width: 200px;
+  }
+
+  .left_baloon img {
+    width: 200px;
+  }
+}
+
+@media (max-width: 991px) {
+  .our_best_slider_wrapper .bottom_bg {
+    display: none;
+  }
+
+  .our_best_slider_inner_wrapper .our_best_slider_main_box {
+    flex-wrap: wrap;
+  }
+
+  .our_best_slider_inner_wrapper
+    .our_best_slider_main_box
+    .our_best_slider_img_Wrapper {
+    width: 100%;
+  }
+
+  .our_best_slider_inner_wrapper
+    .our_best_slider_main_box
+    .our__best_slider_banner_cont {
+    width: 100%;
+  }
+
+  .super_sale_wrapper .super_sale_info_box {
+    display: block;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .super_sale_inner_box {
+    width: 100%;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_img {
+    margin-top: 50px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box {
+    top: 290px;
+    left: 500px;
+  }
+
+  .try_recent_mobail_main_wrapper .card_info_box .card_box {
+    width: 48%;
+  }
+
+  .try_recent_mobail_main_wrapper .card_info_box {
+    gap: 20px;
+  }
+
+  .earphone_main_wrapper .card_info_box .card_box {
+    width: 48%;
+  }
+
+  .navbar .container {
+    padding: 20px;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-item .nav-link {
+    padding: 0px 0px;
+  }
+
+  .navbar-expand-lg .navbar-nav {
+    margin-top: 50px;
+  }
+
+  .our_best_slider_inner_wrapper .owl-dots {
+    bottom: 0;
+    right: 0;
+    position: relative;
+  }
+
+  .try_mob_slider_img_Wrapper .shap_img {
+    display: none;
+  }
+
+  .collection_sec_wrapper .collection_main_box {
+    display: block;
+  }
+
+  .collection_sec_wrapper .collection_main_box .collection_inner_box {
+    width: 100%;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h2 {
+    justify-content: center;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h3 {
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    .collection_btn {
+    justify-content: center;
+  }
+
+  .collection_sec_wrapper .collection_main_box .collection_inner_box .off_box {
+    position: absolute;
+    top: 0;
+    right: 150px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .off_box
+    img {
+    width: 180px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_img_box {
+    margin-top: 50px;
+  }
+
+  .watch_section_wrapper .watch_info_box {
+    display: block;
+  }
+
+  .watch_section_wrapper .watch_info_box .watch_inner_box {
+    width: 100%;
+    align-items: center;
+  }
+
+  .watch_section_wrapper .watch_info_box .watch_inner_box .content_box {
+    margin-top: 50px;
+  }
+
+  .watch_section_wrapper {
+    padding: 50px 0px 50px 0px;
+  }
+  .watch_section_wrapper
+    .watch_info_box
+    .watch_inner_box
+    .content_box
+    .shop_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .watch_section_wrapper .watch_info_box .watch_inner_box .content_box h2 {
+    text-align: center;
+  }
+  .watch_section_wrapper
+    .watch_info_box
+    .watch_inner_box
+    .content_box
+    .shop_btn
+    a:hover {
+    background-color: #000;
+  }
+
+  .lap_comp_sec_wrapper .lap_comp_main_box .lap_comp_info_box {
+    width: 100%;
+    position: relative;
+  }
+
+  .try_ship_icon_cont_wrapper h3 a {
+    font-size: 16px;
+  }
+
+  .try_ship_icon_wrapper i:before {
+    font-size: 30px;
+  }
+
+  .try_ship_icon_wrapper {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .try_ship_icon_cont_wrapper h4 {
+    font-size: 12px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .try_it_banner_wrapper .main-banner .banner_content_box .banner_gift_box img {
+    width: 150px;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box h1 {
+    font-size: 90px;
+    line-height: 80px;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box h4 {
+    font-size: 65px;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box .sale_text {
+    font-size: 99px;
+    bottom: 235px;
+  }
+
+  .left_baloon img {
+    width: 170px;
+  }
+
+  .right_baloon img {
+    width: 170px;
+  }
+
+  .earphone_main_wrapper .earphones_heading_wrapper h2 {
+    font-family: Lato;
+    font-size: 30px;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_content_box
+    h2 {
+    font-size: 40px;
+    margin: 15px 0px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box {
+    top: 270px;
+    left: 350px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .off_box
+    img {
+    width: 160px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_img_box
+    img {
+    width: 350px;
+  }
+
+  .lap_comp_sec_wrapper
+    .lap_comp_main_box
+    .lap_comp_info_box
+    .lap_comp_inner_box
+    .lap_comp_content_box
+    h3 {
+    font-size: 16px;
+  }
+
+  .try_shippy_main_wrapper {
+    padding: 50px 0px;
+  }
+
+  .try_shippy_main_wrapper row {
+    row-gap: 30px;
+  }
+  .watch_section_wrapper .pattern {
+    display: none;
+  }
+  .try_footer_second_sec_wrapper h3 {
+    margin-top: 50px;
+  }
+  .try_footer_third_sec_wrapper h3 {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 773px) {
+  .earphone_main_wrapper .card_info_box .card_box {
+    width: 100%;
+  }
+}
+
+@media (max-width: 666px) {
+  .collection_sec_wrapper .collection_main_box .collection_inner_box .off_box {
+    position: absolute;
+    top: 0;
+    right: 50px;
+  }
+}
+
+@media (max-width: 600px) {
+  .try_recent_mobail_main_wrapper .card_info_box .card_box {
+    width: 100%;
+  }
+
+  .try_top_banner_wrapper
+    .top-banner-header
+    .top_banner_main_box
+    .try_top_login_wrapper
+    ul
+    .hidden-xs {
+    display: none;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box h1 {
+    font-size: 60px;
+    line-height: 60px;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box h4 {
+    font-size: 40px;
+  }
+
+  .try_it_banner_wrapper .main-banner .banner_content_box .sale_text {
+    font-size: 65px;
+    bottom: 212px;
+  }
+
+  .our_best_slider_inner_wrapper
+    .our_best_slider_main_box
+    .our__best_slider_banner_cont
+    h2 {
+    font-size: 60px;
+  }
+
+  .our_best_slider_inner_wrapper
+    .our_best_slider_main_box
+    .our__best_slider_banner_cont
+    ul
+    li {
+    font-size: 12px;
+  }
+
+  .our_best_slider_inner_wrapper
+    .our_best_slider_main_box
+    .our__best_slider_banner_cont
+    p {
+    font-size: 30px;
+  }
+
+  .super_sale_wrapper
+    .super_sale_info_box
+    .super_sale_inner_box
+    .super_sale_img
+    img {
+    width: 250px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box {
+    top: 270px;
+    left: 230px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box p {
+    font-size: 12px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box h2 {
+    font-size: 18px;
+  }
+
+  .super_sale_wrapper .super_sale_info_box .discount_box h3 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 500px) {
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_img_box
+    img {
+    width: 330px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .off_box
+    img {
+    width: 125px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h2 {
+    font-size: 90px;
+  }
+
+  .lap_comp_sec_wrapper
+    .lap_comp_main_box
+    .lap_comp_info_box
+    .lap_comp_inner_box {
+    display: block;
+  }
+
+  .lap_comp_sec_wrapper
+    .lap_comp_main_box
+    .lap_comp_info_box
+    .lap_comp_inner_box
+    .lap_comp_img_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lap_comp_sec_wrapper
+    .lap_comp_main_box
+    .lap_comp_info_box
+    .lap_comp_inner_box
+    .lap_comp_img_box
+    img {
+    width: 250px;
+  }
+}
+
+@media (max-width: 450px) {
+  .right_baloon img {
+    width: 100px;
+  }
+
+  .left_baloon img {
+    width: 100px;
+  }
+
+  .try_top_banner_wrapper
+    .top-banner-header
+    .top_banner_main_box
+    .try_top_login_wrapper
+    ul
+    .web_btn
+    a {
+    font-size: 16px;
+    width: 130px;
+  }
+
+  .try_recent_mob_heading_wrapper h2 {
+    font-size: 40px;
+  }
+
+  .earphone_main_wrapper .earphones_heading_wrapper h2 {
+    font-family: Lato;
+    font-size: 20px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_img_box
+    img {
+    width: 250px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h2 {
+    font-size: 70px;
+  }
+
+  .collection_sec_wrapper
+    .collection_main_box
+    .collection_inner_box
+    .collecion_content_box
+    h3 {
+    font-size: 20px;
+  }
+  .watch_section_wrapper .watch_info_box .watch_inner_box .content_box h2 {
+    font-size: 50px;
+  }
+  .watch_section_wrapper .watch_info_box .watch_inner_box .content_box h3 {
+    font-size: 35px;
+  }
+  .watch_section_wrapper .watch_info_box .watch_inner_box .img_box img {
+    width: 230px;
+  }
+}
+
+@media (max-width: 350px) {
+  .right_baloon img {
+    width: 70px;
+  }
+
+  .left_baloon img {
+    width: 70px;
+  }
+}
+
+@media (max-width: 330px) {
+  #clockdiv > div,
+  #clockdiv2 > div,
+  #clockdiv3 > div {
+    margin-left: 3px;
+    margin-right: 2px;
+  }
+}
